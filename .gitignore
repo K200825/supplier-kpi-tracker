@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Output files (generated, not committed)
+output/
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
