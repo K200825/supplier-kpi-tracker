@@ -1,11 +1,11 @@
 supplier_id,supplier_name,orders_total,orders_on_time,promised_lead_time_days,avg_lead_time_days,units_delivered,defects_total
-SUP-001,Alpha Logistics GmbH,685,667,10,10.2,4499,28
+SUP-001,Alpha Logistics GmbH,685,667,10,10.2,4499,428
 SUP-002,Beta Components Ltd,554,426,14,15.0,15486,306
 SUP-003,Gamma Supplies AG,1172,1052,14,13.6,3345,12
 SUP-004,Delta Parts KG,787,613,7,7.4,14777,363
-SUP-005,Epsilon Materials BV,1281,1193,5,5.0,9757,13
+SUP-005,Epsilon Materials BV,1281,193,5,5.0,9757,313
 SUP-006,Zeta Freight SE,501,488,7,7.0,13263,59
 SUP-007,Eta Industrial Co,1680,1240,14,15.7,5733,60
 SUP-008,Theta Packaging Ltd,521,408,7,7.6,14626,270
 SUP-009,Iota Raw Materials,596,409,10,14.4,10812,619
-SUP-010,Kappa Tech Supplies,1254,1149,5,7.5,7214,16
+SUP-010,Kappa Tech Supplies,1254,1149,5,7.5,7214,6
